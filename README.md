@@ -1,0 +1,1 @@
+Created a password generator in Python to save me the trouble of coming up with/changing a password on every site on every website I sign up to/change password on. And not depend on a browser's password management. 
